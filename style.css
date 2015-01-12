@@ -1,0 +1,26 @@
+﻿.header {
+    text-align: center;
+}
+.positionCenter {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.buttons {
+    width:40%;
+    
+}
+.setupTab {
+    margin-left: 50%;
+    font-size: 1.2em;
+    
+}
+.inputBox {
+    width:1em;
+    height: 1em;
+}
+.checkTab {
+    width:40%;
+    margin-left: 30%;
+    display: none;
+}
